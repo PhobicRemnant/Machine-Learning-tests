@@ -12,6 +12,6 @@ The results are quite, miniscule, the model simply imitates some words based on 
 
 ## Notes on v001
 
-Please note that the model is overfitted due to the small size of the learning set, it is unadvised to use a supervised learning model without dividing the dataset into a train and test populations. The good news is that there are more names to use in the SoulsBorne series, more character names will make a beter job at creating new names. If you try the model in the v001 version you can see that the names are strangely embedded (due to overfitting) into a sequence. 
+Please note that the model is overfitted due to the small size of the learning set, it is unadvised to use a supervised learning model without dividing the dataset into a train and test populations. The good news is that there are more names to use in the SoulsBorne series, more character names will make a better job at creating new names. If you try the model in the v001 version you can see that the names are strangely embedded (due to overfitting) into a sequence. 
 
 Therefore, v002 will expand the dataset to be able to create strange names. Please be advised that the current nature of the project is not withing the boundaries of NPL.
